@@ -1,2 +1,2 @@
 ### xbase
-10x your Productivity on Twitter
+Supercharge your Productivity on X
