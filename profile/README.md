@@ -1,2 +1,2 @@
 ### xbase
-Supercharge your Productivity on X
+Supercharge your productivity on X
